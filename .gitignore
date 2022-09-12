@@ -1,0 +1,5 @@
+*.log
+.sai
+/bbb/
+static/bbb
+static/ccc
