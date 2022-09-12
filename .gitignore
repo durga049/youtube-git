@@ -1,5 +1,6 @@
 *.log
 .sai
-/bbb/
+bbb/
 static/bbb
-static/ccc
+
+us.sa
